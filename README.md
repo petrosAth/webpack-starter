@@ -1,6 +1,13 @@
 # About
 
-A Webpack starter project for using SCSS and Webpack.
+A starter project boilerplate for using SCSS and
+(Webpack)[https://webpack.js.org/].
+
+> At its core, webpack is a static module bundler for modern JavaScript
+> applications. When webpack processes your application, it internally builds a
+> dependency graph from one or more entry points and then combines every module
+> your project needs into one or more bundles, which are static assets to serve
+> your content from.
 
 ## Usage
 
@@ -48,7 +55,7 @@ nvim .nvim/init.local.lua
 - [`Webpack Bundle Analyzer`](https://github.com/webpack-contrib/webpack-bundle-analyzer):
   Visualize size of webpack output files with an interactive zoomable treemap
 - [`Webpack Dev Server`](https://github.com/webpack/webpack-dev-server): Serves
-  the webpack app/website and provides live browser reloading on file changes
+  the webpack app and provides live browser reloading on file changes
 - [`ESLint`](https://eslint.org): Linter that statically analyzes the JavaScript
   code to quickly find problems
 
