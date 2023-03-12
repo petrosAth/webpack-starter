@@ -1,7 +1,7 @@
 # About
 
 A starter project boilerplate for using SCSS and
-(Webpack)[https://webpack.js.org/].
+[Webpack](https://webpack.js.org/).
 
 > At its core, webpack is a static module bundler for modern JavaScript
 > applications. When webpack processes your application, it internally builds a
@@ -18,7 +18,7 @@ Get up and running with these simple steps:
 1. Clone the project
 
 ```bash
-git clone git@github.com:petrosAth/webpack-starter.git `project-name`
+git clone git@github.com:petrosAth/webpack-project-boilerplate.git `project-name`
 ```
 
 2. Get in the project's directory and install npm dependencies
