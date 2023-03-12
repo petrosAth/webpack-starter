@@ -21,13 +21,7 @@ cd `project-name`
 npm install
 ```
 
-3. Install ESLint
-
-```bash
-npm init @eslint/config
-```
-
-4. Modify Neovim project configuration file and restart Neovim
+3. Modify Neovim project configuration file and restart Neovim
 
 ```bash
 nvim .nvim/init.local.lua
