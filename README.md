@@ -6,16 +6,18 @@ A Webpack starter project for using SCSS and Webpack.
 
 Get up and running with these simple steps:
 
+> Don't forget to substitute `project-name` with your project's name
+
 1. Clone the project
 
 ```bash
-git clone git@github.com:petrosAth/webpack-starter.git ./project-name
+git clone git@github.com:petrosAth/webpack-starter.git `project-name`
 ```
 
 2. Get in the project's directory and install npm dependencies
 
 ```bash
-cd project-name
+cd `project-name`
 npm install
 ```
 
