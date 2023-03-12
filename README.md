@@ -39,7 +39,7 @@ nvim .nvim/init.local.lua
 - [`SASS`](https://sass-lang.com/): It is a CSS extension that is used to add
   features like variables, nested rules, mixins, inline imports, inheritance and
   more, all with fully CSS-compatible syntax.
-- [`PostCSS`](https://postcss.org/)
+- [`PostCSS`](https://postcss.org/): A tool for transforming CSS with JavaScript
   - [`PostCSS Preset Env`](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env):
     Enables the use of the latest CSS features by modifying the end CSS code to
     ensure browser compatibility
