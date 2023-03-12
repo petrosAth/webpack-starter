@@ -51,3 +51,8 @@ nvim .nvim/init.local.lua
   the webpack app/website and provides live browser reloading on file changes
 - [`ESLint`](https://eslint.org): Linter that statically analyzes the JavaScript
   code to quickly find problems
+
+---
+
+This project is based on Grant Barlett's
+[React TypeScript Webpack Starter](https://github.com/GrantBartlett/react-typescript-webpack-starter)
