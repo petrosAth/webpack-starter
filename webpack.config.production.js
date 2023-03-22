@@ -13,7 +13,6 @@ module.exports = {
     clean: true,
     assetModuleFilename: '[name][ext]',
   },
-  devtool: 'source-map',
   module: {
     rules: [
       {
